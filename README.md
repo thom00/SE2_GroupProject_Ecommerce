@@ -11,4 +11,4 @@
 <li>Luu Thi Thom - 1901040212</li>
 <li>Nguyen Khac Hung - 1901040102</li>
 </ul>
-<p>The aim of the project is to build a Ecommerce website using <strong>Java Servlet, JSP, CSS, JavaScript</strong>.</p>
+<p>The aim of the project is to build an ecommerce website using <strong>Java Servlet, JSP, CSS, JavaScript</strong>.</p>
